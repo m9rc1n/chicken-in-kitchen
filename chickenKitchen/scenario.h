@@ -1,0 +1,9 @@
+GLvoid bot_left_arm (GLvoid);
+GLvoid bot_right_arm (GLvoid);
+GLvoid bot_left_forhand (GLvoid);
+GLvoid bot_right_forhand (GLvoid);
+GLvoid shake_head (GLvoid);
+GLvoid grow_eating (GLvoid);
+GLvoid chicken_move (GLvoid);
+GLvoid up_disc (GLvoid);
+GLvoid down_disc (GLvoid);
