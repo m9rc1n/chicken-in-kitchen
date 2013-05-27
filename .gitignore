@@ -14,7 +14,7 @@
 
 *~
 *.swp
-chickenKitchen.*
+# chickenKitchen.*
 Debug/
-ipch/
+# ipch/
 
